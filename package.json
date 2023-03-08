@@ -1,0 +1,17 @@
+{
+  "name": "aws-nodejs-coding-assessment",
+  "version": "1.0.0",
+  "description": "AWS NodeJS Coding Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Randy D. Binondo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
+  }
+}
